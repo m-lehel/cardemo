@@ -1,8 +1,5 @@
 package com.demo.car.car.database;
 
-import lombok.RequiredArgsConstructor;
-import org.springframework.stereotype.Service;
-
 import java.util.Optional;
 
 /**
